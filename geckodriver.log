@@ -1,0 +1,1568 @@
+1572851900994	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilenJsPuw"
+1572851909314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572851909314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572851909314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572851909314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572851939439	Marionette	INFO	Listening on port 53255
+1572851940021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Parent 8932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+[Parent 8932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1572857801621	Marionette	INFO	Stopped listening on port 53255
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5133: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+e_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Child 6 837421, Ch
+rome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/com[Child 340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 340, Cconsole.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1572852730691	Marionette	INFO	Stopped listening on port 58398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6164, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+es/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1572852382758	Marionette	INFO	Listening on port 58652
+1572852383011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 8232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8232, Chrome_ChildThread] WARNING: pipe[Parent 8048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task[Parent 8048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572852731012	Marionette	INFO	Stopped listening on port 58652
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9204, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+[Child 9292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572852483827	Marionette	INFO	Listening on port 58875
+1572852483849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/build/common-min.5594359fa3da.js, line 10: Error: Error retrieving geoip data
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10228, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10228, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Child 9728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9728, Chrome_ChildThread] [console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1572852731130	Marionette	INFO	Stopped listening on port 58875
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9480, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+2, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_157001572852650993	Marionette	INFO	Listening on port 51742
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572852651609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+[Child 10532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Child 10992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572852746414	Marionette	INFO	Stopped listening on port 51742
+[GPU 9700, Chrome_ChildThread] WARNING: pipe 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572852844935	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileOWsPU5"
+1572852847758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572852847758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572852847759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572852847759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572852855314	Marionette	INFO	Listening on port 52072
+1572852855545	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Child 9940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[
+Child 4[Child 9940, Ch856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5280, Chr[Parent 7172, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572852947175	Marionette	INFO	Stopped listening on port 52072
+[GPU 1071572853219380	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilee7GjFt"
+1572853220712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572853220712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572853220712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572853220712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572853226303	Marionette	INFO	Listening on port 52366
+1572853226601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Parent 10136, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10136, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10136, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1572856163578	Marionette	INFO	Stopped listening on port 52366
+on permission: resource://pdf.js/
+1572855863305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572855869872	Marionette	INFO	Listening on port 52984
+1572855870007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 11020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi[Parent 4016, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+n.c[Parent 4016, Gecko_IOThread] WARNcING: pipe error: 109,: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341 li
+ne 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370107,name=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37010C,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+[Child 5608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 5608, Chrome_hild 10204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572856121071	Marionette	INFO	Stopped listening on port 52984
+[GPU1572856320599	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileDT41BX"
+1572856325048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572856325048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572856325049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572856325049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572856333281	Marionette	INFO	Listening on port 53499
+1572856333466	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+[Child 6728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/[Csrc/chhild r1o9m36,e /Cchorome_ChildmTmhon/ipc_channel_win.cc, line 3r4e1
+ad][Child  WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/t[Parent 11184, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572856535053	Marionette	INFO	Stopped listening on port 53499
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP1572856539359	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilerXbWfY"
+1572856540802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572856540802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572856540803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572856540803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572856550932	Marionette	INFO	Listening on port 53773
+1572856551147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Parent 6808, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6808, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6808, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1572857766576	Marionette	INFO	Stopped listening on port 53773
+:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 45: TypeError: window is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4140, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+[Parent 4140, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+c/chromium/src/base/process_util_win.cc, line 160
+[Child 7616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1572857742524	Marionette	INFO	Stopped listening on port 63837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 78
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ught exception: Object
+[Parent 4340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4340, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 11204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1572857741937	Marionette	INFO	Stopped listening on port 64146
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5176, 
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x590005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+528, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1572857608338	Marionette	INFO	Listening on port 64586
+1572857608872	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 10528, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10528, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1332, Chrome_ChildThr[Child 9508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9040, Ch1572857736242	Marionette	INFO	Stopped listening on port 64586
+[GPU 9420, Chrome_ChildThread] WARNING: pipJavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5133: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1572858238019	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileE806Q7"
+1572858241724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572858241725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572858241725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572858241725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572858248995	Marionette	INFO	Listening on port 55471
+1572858249045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 11128, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11128, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 11128, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572859051881	Marionette	INFO	Stopped listening on port 55471
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+g': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572858465124	Marionette	INFO	Listening on port 55912
+1572858465593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Child 6760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572859051860	Marionette	INFO	Stopped listening on port 55912
+[GPU 10456, Chrome_ChildThread] WARNING
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nifest: Invalid extension permission: telemetry
+1572858831711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572858831711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 9764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9764, Chrome_ChildThread] WARNING: pipe error: [GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1572858844216	Marionette	INFO	Listening on port 56586
+1572858844703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 10492, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src[/chrome/common/ipc_channel_win.cc, Clhild 598i0, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chnromium/src/cehrome /341
+com[Chilmon/ipc_channel_win.cc, line 341
+[Child 5980, Chrome_Chi[Parent 10492, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572859051817	Marionette	INFO	Stopped listening on port 56586
+[GPU 5544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_15
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572859174982	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilepoScw4"
+1572859180394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572859180395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572859180395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572859180396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572859187259	Marionette	INFO	Listening on port 52418
+1572859187414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Parent 9700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10000[Parent 9700, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 9700, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[1572859708089	Marionette	INFO	Stopped listening on port 52418
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 110
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572859267321	Marionette	INFO	Listening on port 52690
+1572859267796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Child 10692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/[Child 8388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromi[Child 7528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572859707965	Marionette	INFO	Stopped listening on port 52690
+[GPU 9
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+U
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572859541283	Marionette	INFO	Listening on port 53259
+1572859541778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Child 10472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chiconsole.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572859708012	Marionette	INFO	Stopped listening on port 53259
+ozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572859600426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 8608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1572859618405	Marionette	INFO	Listening on port 53494
+1572859618800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Parent 4872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6304, Chrome_C[Parent 4872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8560, Chrome_ChildTh[Child 10008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10008, Chrome_ChildThread] WA1572859707249	Marionette	INFO	Stopped listening on port 53494
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572859970796	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileooCN1m"
+1572859974627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572859974628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572859974628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572859974628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572859980091	Marionette	INFO	Listening on port 54114
+1572859980199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Parent 9064, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+[Parent 9064, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Child 5112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572863374473	Marionette	INFO	Stopped listening on port 54114
+be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.com"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Parent 7268, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 7268, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1572863364143	Marionette	INFO	Stopped listening on port 60809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4232, ChromeJavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5133: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+ead] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1584, Chrome_ChildThread] WA[Parent 10936, Gecko_IOThread] WARNING: file z:/task_1570051158/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1572863355925	Marionette	INFO	Stopped listening on port 64355
+[GPU 2968,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572863479062	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileoBcOne"
+1572863485810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572863485810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572863485811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572863485812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1572863494868	Marionette	INFO	Listening on port 63880
+1572863495212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Parent 10640, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10640, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8471572864026948	Marionette	INFO	Stopped listening on port 63880
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+enshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572863752047	Marionette	INFO	Listening on port 64391
+1572863752326	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Parent 7616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Child 10188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10188, Chrome_ChildThrChild 6764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6764, Chrome_ChildThread] WARNING: pipe error: [Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572864027034	Marionette	INFO	Stopped listening on port 64391
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	INFO	Listening on port 64683
+1572863858929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 9700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10468, Chrome_ChildTh[Child 4520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chroconsole.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572864026224	Marionette	INFO	Stopped listening on port 64683
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570051158/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572864738968	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilegiDs7B"
+1572864740275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572864740275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572864740276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572864740276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572864746403	Marionette	INFO	Listening on port 60450
+1572864746758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+[Parent 9656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium[Child 4324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4324,[Child 5928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572865210756	Marionette	INFO	Stopped listening on port 60450
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1572867209136	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilet22zdl"
+1572867211866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572867211866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572867211866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572867211866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572867221650	Marionette	INFO	Listening on port 60844
+1572867222022	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9276, Chrome_ChildThread][Parent 7036, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src WARNING: pipe erro/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341r: 109: file z:/ta
+[Child 7sk_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9276, Ch[Child 10440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572867455972	Marionette	INFO	Stopped listening on port 60844
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Gjsm, line 66: Error: Can't find profile directory.
+[Child 11048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1572867347118	Marionette	INFO	Listening on port 61018
+1572867347330	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1[Child 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5400, Chrom[Child 7484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src1572867455718	Marionette	INFO	Stopped listening on port 61018
+[GPU 8220, Chrome_ChildThread] WARNING: pipe error: 109: fil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+xtension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1572867419861	Marionette	INFO	Listening on port 61149
+1572867420249	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4948, Chrome_ChildThr1572867461423	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilefnTW39"
+1572867464056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572867464057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572867464057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572867464057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572867469371	Marionette	INFO	Listening on port 61259
+1572867469738	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginManager: "searchLogins: `formActionOrigin` or `httpRealm` is recommended"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+[Child 9520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9520, [Child 5176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5176, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 5176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4140, Chrome_ChildThread] WARNING:[Child 10624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572867684218	Marionette	INFO	Stopped listening on port 61259
+[GPU  109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1572867691714	Marionette	INFO	Stopped listening on port 61074
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8468, Chrome_Chil\Temp\\rust_mozprofileYM4bRx"
+1572867694099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572867694100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572867694100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572867694100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572867699606	Marionette	INFO	Listening on port 61220
+1572867700046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iLl54/yh/l/en_GB/zPtryfG3gO-.js?_nc_x=-2Bt1__dsi5, line 3: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 1176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 458
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Child 7540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572869887356	Marionette	INFO	Stopped listening on port 61220
+ionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1572868792095	Marionette	INFO	Listening on port 63777
+1572868792474	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+[Child 9404, Unnamed thread 24b67800] WARNING: 9662940 StateCallback() state 1 cubeb error: file z:/task_1572401533/build/src/dom/media/AudioStream.cpp, line 605
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 7828, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10128, Chrome_ChilWARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/task_1572401533/build/src/toolkit/components/places/Database.cpp","lineNumber":496,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1913","resource://gre/modules/XPCOMUtils.jsm:get:129","resource://gre/modules/PlacesUtils.jsm:getFolderContents:1292","resource:///modules/BrowserGlue.jsm:getToolbarFolderCount:2703","resource:///modules/BrowserGlue.jsm:_maybeToggleBookmarkToolbarVisibility:2713","resource:///modules/BrowserGlue.jsm:BG__migrateUI:2754","resource:///modules/BrowserGlue.jsm:BG__beforeUIStartup:1206","resource:///modules/BrowserGlue.jsm:BG_observe:858"]}] Barrier: profile-before-change
+1572869875794	Marionette	INFO	Stopped listening on port 63777
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/TelemetryController.jsm, line 516: Error: submitExternalPing - Submission is not allowed after shutdown, discarding ping of type: modules
+: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChilJavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/task_1572401533/build/src/toolkit/components/places/Database.cpp","lineNumber":496,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1913","resource://gre/modules/XPCOMUtils.jsm:get:129","resource://gre/modules/PlacesUtils.jsm:getFolderContents:1292","resource:///modules/BrowserGlue.jsm:getToolbarFolderCount:2703","resource:///modules/BrowserGlue.jsm:_maybeToggleBookmarkToolbarVisibility:2713","resource:///modules/BrowserGlue.jsm:BG__migrateUI:2754","resource:///modules/BrowserGlue.jsm:BG__beforeUIStartup:1206","resource:///modules/BrowserGlue.jsm:BG_observe:858"]}] Barrier: profile-before-change
+1572869807253	Marionette	INFO	Stopped listening on port 64128
+72401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11228, Chrome_ChildThread] WARNING: pipe erro[1572869771982	Marionette	INFO	Stopped listening on port 58134
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10188, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x590005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1572921839132	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileQlUISK"
+1572921846130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572921846130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572921846131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572921846131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572921862707	Marionette	INFO	Listening on port 52159
+1572921863462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.co.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.co.in"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Parent 10864, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+[Parent 10864, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 10864, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/task_1572401533/build/src/toolkit/components/places/Database.cpp","lineNumber":496,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1913","resource://gre/modules/XPCOMUtils.jsm:get:129","resource://gre/modules/PlacesUtils.jsm:getFolderContents:1292","resource:///modules/BrowserGlue.jsm:getToolbarFolderCount:2703","resource:///modules/BrowserGlue.jsm:_maybeToggleBookmarkToolbarVisibility:2713","resource:///modules/BrowserGlue.jsm:BG__migrateUI:2754","resource:///modules/BrowserGlue.jsm:BG__beforeUIStartup:1206","resource:///modules/BrowserGlue.jsm:BG_observe:858"]}] Barrier: profile-before-change
+1572923444131	Marionette	INFO	Stopped listening on port 52159
+, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 6180, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/task_1572401533/build/src/toolkit/components/places/Database.cpp","lineNumber":496,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1913","resource://gre/modules/XPCOMUtils.jsm:get:129","resource://gre/modules/PlacesUtils.jsm:getFolderContents:1292","resource:///modules/BrowserGlue.jsm:getToolbarFolderCount:2703","resource:///modules/BrowserGlue.jsm:_maybeToggleBookmarkToolbarVisibility:2713","resource:///modules/BrowserGlue.jsm:BG__migrateUI:2754","resource:///modules/BrowserGlue.jsm:BG__beforeUIStartup:1206","resource:///modules/BrowserGlue.jsm:BG_observe:858"]}] Barrier: profile-before-change
+1572923427260	Marionette	INFO	Stopped listening on port 52480
+es/WebNavigationFrames.jsm, line 45: TypeError: window is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.co.in"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7288, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Parent 7288, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/task_1572401533/build/src/toolkit/components/places/Database.cpp","lineNumber":496,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1913","resource://gre/modules/XPCOMUtils.jsm:get:129","resource://gre/modules/PlacesUtils.jsm:getFolderContents:1292","resource:///modules/BrowserGlue.jsm:getToolbarFolderCount:2703","resource:///modules/BrowserGlue.jsm:_maybeToggleBookmarkToolbarVisibility:2713","resource:///modules/BrowserGlue.jsm:BG__migrateUI:2754","resource:///modules/BrowserGlue.jsm:BG__beforeUIStartup:1206","resource:///modules/BrowserGlue.jsm:BG_observe:858"]}] Barrier: profile-before-change
+1572923445105	Marionette	INFO	Stopped listening on port 52738
+[Parent 7288, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mn: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Parent 5432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Parent 5432, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 5432, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/task_1572401533/build/src/toolkit/components/places/Database.cpp","lineNumber":496,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1913","resource://gre/modules/XPCOMUtils.jsm:get:129","resource://gre/modules/PlacesUtils.jsm:getFolderContents:1292","resource:///modules/BrowserGlue.jsm:getToolbarFolderCount:2703","resource:///modules/BrowserGlue.jsm:_maybeToggleBookmarkToolbarVisibility:2713","resource:///modules/BrowserGlue.jsm:BG__migrateUI:2754","resource:///modules/BrowserGlue.jsm:BG__beforeUIStartup:1206","resource:///modules/BrowserGlue.jsm:BG_observe:858"]}] Barrier: profile-before-change
+1572923450759	Marionette	INFO	Stopped listening on port 53143
+JavaScript error: resource://gre/modules/TelemetryController.jsm, line 516: Error: submitExternalPing - Submission is not allowed after shutdown, discarding ping of type: modules
+les/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1572922495259	Marionette	INFO	Listening on port 53487
+1572922495524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wego.co.in"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Parent 5840, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 5840, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/task_1572401533/build/src/toolkit/components/places/Database.cpp","lineNumber":496,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1913","resource://gre/modules/XPCOMUtils.jsm:get:129","resource://gre/modules/PlacesUtils.jsm:getFolderContents:1292","resource:///modules/BrowserGlue.jsm:getToolbarFolderCount:2703","resource:///modules/BrowserGlue.jsm:_maybeToggleBookmarkToolbarVisibility:2713","resource:///modules/BrowserGlue.jsm:BG__migrateUI:2754","resource:///modules/BrowserGlue.jsm:BG__beforeUIStartup:1206","resource:///modules/BrowserGlue.jsm:BG_observe:858"]}] Barrier: profile-before-change
+1572923360009	Marionette	INFO	Stopped listening on port 53487
+WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 912, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1572923274856	Marionette	INFO	Stopped listening on port 54228
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4120, Chrome_ChildThread] WARNING: p
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572924249208	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilewckR8Y"
+1572924252202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572924252202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572924252202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572924252202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572924260557	Marionette	INFO	Listening on port 64844
+1572924260814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 10980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/s[Parent 7072, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+rc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10980, Chrome_ChildThread] WARNING: pipe error: 109: fi[Child 10800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572925531179	Marionette	INFO	Stopped listening on port 64844
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[ directory.
+1572924859056	Marionette	INFO	Listening on port 49362
+1572924859327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 11936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 11936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi[Child 3660n.cc, line 341
+[Child 10936, Chrome_ChildThread] WARNING: pipe error: 109: f, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3660, Chrome_Child[Child 1232, Chrome_Child1572925531792	Marionette	INFO	Stopped listening on port 49362
+[GPU 11572925659461	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilelisdP1"
+1572925660801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572925660801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572925660802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572925660802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572925666468	Marionette	INFO	Listening on port 64262
+1572925666692	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:933:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): node is null"
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2d347f410459c2&origin=https%3A%2F%2Fwww.sonyliv.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+[Parent 7704, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+[Parent 7704, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Parent 7704, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Parent 7704, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, liA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ne 502
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 266: TypeError: this._builder is undefined
+[Parent 7704, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/comm1572926998805	Marionette	INFO	Stopped listening on port 64262
+06e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+[Child 7328, MediaDecoderStateMachine #1] WARNING: Decoder=11883800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+JavaScript error: https://www.sonyliv.com/extensions/akamai/js/amp.premier.js, line 19936: TypeError: this.facade.player is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+[Parent 1332, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+[Parent 1332, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 1332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1572926957314	Marionette	INFO	Stopped listening on port 50640
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/TelemetryController.jsm, line 516: Error: submitExternalPing - Submission is not allowed after shutdown, discarding ping of type: modules
+source:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1572926268967	Marionette	INFO	Listening on port 51025
+1572926269593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 9564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channe[Parent 3232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572926895797	Marionette	INFO	Stopped listening on port 51025
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5133: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+e/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/commo[Child 10836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10[Child 10016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 694: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "SessionFile: Finish writing Session Restore data"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10940, 1572926599304	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile25BDR5"
+1572926602384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572926602384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572926602384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572926602385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+[Child 10364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10364, Chrome_ChildThread] WARNIN1572926615214	Marionette	INFO	Listening on port 51811
+1572926616082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gum.criteo.com/syncframe?topUrl=www.sonyliv.com#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22idfs%22:{%22origin%22:0,%22value%22:null},%22lwid%22:{%22origin%22:3,%22value%22:%223046d137-86b3-45a6-b48b-55b9186ac77a%22},%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22pm%22:0,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22sonyliv.com%22,%22topUrl%22:%22www.sonyliv.com%22,%22uid%22:null,%22version%22:%225_4_0%22}, line 13: SecurityError: The operation is insecure.
+[Child 5548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1280, Chro[Child 1540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1540, console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1572926894839	Marionette	INFO	Stopped listening on port 51811
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11164,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572927094095	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileRjpmda"
+1572927097702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572927097702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572927097703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572927097703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572927105166	Marionette	INFO	Listening on port 56653
+1572927105416	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:933:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:933:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:585:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+console.error: "Protocol error (unknownError): node is null"
+console.error: "Protocol error (unknownError): node is null"
+console.error: "Protocol error (unknownError): node is null"
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Parent 8876, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file z:/task_1572401533/build/src/ipc/chromium/src/base/process_util_win.cc, line 395
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] ErroJavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+[Parent 9340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 458
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+[Parent 9340, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Parent 9340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370108,name=PContent::Msg_AccumulateChildKeyedHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37010C,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+[Child 6996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572928913424	Marionette	INFO	Stopped listening on port 57152
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/TelemetryController.jsm, line 516: Error: submitExternalPing - Submission is not allowed after shutdown, discarding ping of type: modules
+ line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+[Parent 8412, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Parent 8412, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/task_1572401533/build/src/JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8876, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572928918808	Marionette	INFO	Stopped listening on port 56653
+s
+1572928738104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572928738104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572928738104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572928816439	Marionette	INFO	Listening on port 57375
+[Child 9264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 926[Child 5396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6276, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChilJavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1572928955332	Marionette	INFO	Stopped listening on port 57375
+[GPU 8712, Chrome_1572929029593	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileug8QP9"
+1572929031595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572929031596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572929031596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572929031597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572929038022	Marionette	INFO	Listening on port 54531
+1572929038481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.ampproject.org/rtv/011910251950120/amp4ads-host-v0.js, line 18: TypeError: a is undefined
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f58b858bf84652&origin=https%3A%2F%2Fwww.sonyliv.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 2260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2260, Chrome_ChildThread][Child 8716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1572929548343	Marionette	INFO	Stopped listening on port 54531
+[GPU 11748, Chrome_Ch
